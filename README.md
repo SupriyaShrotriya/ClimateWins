@@ -3,6 +3,7 @@ This project was developed in collaboration with ClimateWins, a European nonprof
 The project was completed in two phases:
 
 Achievement 1 (Part 1): Focused on using supervised machine learning to predict favorable weather conditions and evaluate model performance.
+
 Achievement 2 (Part 2): Applied unsupervised learning, advanced ML models, and deep learning (e.g. CNNs) to explore long-term climate trends and generate insights for policy recommendations.
 The work culminated in a final proposal presentation (see /presentation/) highlighting model comparisons, results, and strategic forecasts.
 
